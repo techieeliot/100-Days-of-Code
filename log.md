@@ -8,7 +8,7 @@
 
 **Thoughts:** 
 
-**Link to work:** <a href="#">Booleans</a>
+**Link to work:** <a href="#"></a>
 
 ### Day 1: February 27, 2019
 #####
@@ -35,7 +35,16 @@
 
 **Thoughts:** I really enjoyed today's a.m. meeting. We had fun encouraging each other and the group is really coming together. The startup week was fun, and I enjoyed standing in front of room and pitching my idea.
 
-**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements">Booleans</a>
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements">Introducing Else Statments</a>
+
+### Day 4: March #, 2019
+#####
+
+**Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to Chaining If Else Statements lesson. Slept in a little bit after staying up late for Techstars Startup Weekend.
+
+**Thoughts:** Today was a feel good moment where I felt really good about the conversation that I had with Jana and the future looks great working with him. Also, the day was very long at the Innovate Mississippi Office working out the details of the Life Cloud Vault startup.
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
 
 
 
