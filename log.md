@@ -49,11 +49,11 @@
 ### Day 5: March 3, 2019
 #####
 
-**Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to Chaining If Else Statements lesson. Slept in a little bit after staying up late for Techstars Startup Weekend.
+**Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to Switch Statements lesson. Starting a little later again, but it's been a busy and exhausting 24 hours at Techstars Startup Weekend.
 
-**Thoughts:** Today was a feel good moment where I felt really good about the conversation that I had with Jana and the future looks great working with him. Also, the day was very long at the Innovate Mississippi Office working out the details of the Life Cloud Vault startup.
+**Thoughts:** Today was lots of fun because I explained the game of golf to Jana. I felt a little discourgaed by how I'm having to toy around with the code so much and figure a bunch of the these if statements with only trial and error. Can't stop thinking about the presentation today for the competition. Will we be ready?
 
-**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements">Selecting from Many Options with Switch Statements</a>
 
 ### Day 6: March 4, 2019
 #####
