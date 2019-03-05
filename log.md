@@ -37,7 +37,25 @@
 
 **Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements">Introducing Else Statments</a>
 
-### Day 4: March #, 2019
+### Day 4: March 2, 2019
+#####
+
+**Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to Chaining If Else Statements lesson. Slept in a little bit after staying up late for Techstars Startup Weekend.
+
+**Thoughts:** Today was a feel good moment where I felt really good about the conversation that I had with Jana and the future looks great working with him. Also, the day was very long at the Innovate Mississippi Office working out the details of the Life Cloud Vault startup.
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+
+### Day 5: March 3, 2019
+#####
+
+**Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to Chaining If Else Statements lesson. Slept in a little bit after staying up late for Techstars Startup Weekend.
+
+**Thoughts:** Today was a feel good moment where I felt really good about the conversation that I had with Jana and the future looks great working with him. Also, the day was very long at the Innovate Mississippi Office working out the details of the Life Cloud Vault startup.
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+
+### Day 6: March 4, 2019
 #####
 
 **Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to Chaining If Else Statements lesson. Slept in a little bit after staying up late for Techstars Startup Weekend.
