@@ -64,6 +64,34 @@
 
 **Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
 
+### Day 7: March 5, 2019
+#####
+
+**Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to.
+
+**Thoughts:** 
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+
+### Day 8: March 6, 2019
+#####
+
+**Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to.
+
+**Thoughts:** 
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+
+### Day 9: March 7, 2019
+#####
+
+**Today's Progress**: freeCodeCamp Basic Javascript with Jana worked up to.
+
+**Thoughts:** 
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+
+
 
 
 
