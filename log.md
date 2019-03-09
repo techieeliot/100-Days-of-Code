@@ -92,6 +92,15 @@
 **Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
 
 
+### Day 10: March 8, 2019
+#####
+
+**Today's Progress**: angular quickstart.
+
+**Thoughts:** 
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+
 
 
 
