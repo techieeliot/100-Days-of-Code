@@ -110,6 +110,32 @@
 
 **Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
 
+### Day 12: March 10, 2019
+#####
+
+**Today's Progress**: ES6 with Jana.
+
+**Thoughts:** 
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+
+### Day 13: March 11, 2019
+#####
+
+**Today's Progress**: ES6 with Jana.
+
+**Thoughts:** 
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
+
+### Day 14: March 12, 2019
+#####
+
+**Today's Progress**: ES6 with Jana.
+
+**Thoughts:** 
+
+**Link to work:** <a href="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
 
 
 
