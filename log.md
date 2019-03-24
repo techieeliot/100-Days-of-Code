@@ -162,6 +162,9 @@ day 16
 
 day 17
 
+day 18 es6 projects
+
+day 19 es6 projects with friends
 
       
 f="https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements">Chaining If Else Statements</a>
