@@ -279,7 +279,7 @@
 ### Day 30: May 12, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Coded through Traversy Media's Higher Order Funcitons video. Completed SQL and began Python Intro on datacamp
 
 **Thoughts:** 
 
