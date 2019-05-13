@@ -279,9 +279,9 @@
 ### Day 30: May 12, 2019
 #####
 
-**Today's Progress**: Coded through Traversy Media's Higher Order Funcitons video. Completed SQL and began Python Intro on datacamp
+**Today's Progress**: Coded through Basic JS FCC with Kara in the morning, then in the evening Traversy Media's Higher Order Functions video with Mesfin. Completed SQL and began Python Intro on datacamp
 
-**Thoughts:** 
+**Thoughts:** Not finished, but like the progress that we made with the Traversy page and finally got an answer to one of the challeges on higher order function to work
 
 **Link to work:** <a href="#"></a>
 
