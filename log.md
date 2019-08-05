@@ -25,6 +25,36 @@
 - [portfolio page](https://techieeliot.github.io/Eliot-Sanford-Portfolio/)
 
 ### Template
+### Day 2: August 2, 2019
+#####
+
+**Today's Progress**: I worked through the beautiful blog Scrimba course for the freeCodeCamp Jackson, MS build-a-blog workshop.
+
+**Thoughts:** I'm a little overwhelmed that the workshop is tomorrow and worried that I won't be prepared enough for the grid section.
+
+**Link to work:** <a href="https://github.com/freecodecampjxn/presentations/tree/master/2019.08.03_workshop">2019.08.03_workshop</a>
+
+### Template
+### Day 3: August 3, 2019
+#####
+
+**Today's Progress**: The workshop went super well, and we were able to get through HTML, CSS basics, CSS Flexbox, and CSS Grid.
+
+**Thoughts:** I'm excited about the result of the workshop. People were seriously learning about basic frontend web development for the first times in their lives all because of our group. It was a turning point kind of moment for our fledgling band of code newbies. 
+
+**Link to work:** <a href="https://github.com/freecodecampjxn/presentations/tree/master/2019.08.03_workshop">2019.08.03_workshop</a>
+
+### Template
+### Day 4: August 4, 2019
+#####
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** <a href="#"></a>
+
+### Template
 ### Day #: August #, 2019
 #####
 
