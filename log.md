@@ -55,6 +55,17 @@
 **Link to work:** <a href="https://www.figma.com/file/dY4xftp2SWPpqBkEZcVQau/banking-direct-deposit-app?node-id=0%3A244">the banking app diagram</a>
 
 ### Template
+### Day 5: August 5, 2019
+#####
+
+**Today's Progress**: Worked through Chapter 2 of the MongoDB Basics Course, but I realized that I won't complete the assignments and need to restart tomorrow.
+
+**Thoughts:** I'm a little dejected that I didn't reach my goal, but I'm glad that they have a rolling admissions to the course. MDB is really an amazing company. It's unbelievable that I missed the boat on investing in this company at 82. 
+
+**Link to work:** <a href="
+https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
+
+### Template
 ### Day #: August #, 2019
 #####
 
