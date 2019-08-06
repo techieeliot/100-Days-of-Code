@@ -48,11 +48,11 @@
 ### Day 4: August 4, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Standup with w3develops react study group members to discuss the hack-a-thon project. We discussed the Routes, API's, Logic, Models, and Views of the Banking App Concept.
 
-**Thoughts:** 
+**Thoughts:** I wish I would have gotten to more programming, but we discussed the architectural design of an app.
 
-**Link to work:** <a href="#"></a>
+**Link to work:** <a href="https://www.figma.com/file/dY4xftp2SWPpqBkEZcVQau/banking-direct-deposit-app?node-id=0%3A244">the banking app diagram</a>
 
 ### Template
 ### Day #: August #, 2019
