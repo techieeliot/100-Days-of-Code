@@ -66,6 +66,16 @@
 https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
 
 ### Template
+### Day 6: August 6, 2019
+#####
+
+**Today's Progress**: Restarted MongoDB course, so I'll be able to pass the course. Openned the Movie App Udemy course, but didn't get much done.
+
+**Thoughts:** Felt little because I didn't achieve my targets and was not on top of my tasks like others in the study group that are really doing well. 
+
+**Link to work:** <a href="#"></a>
+
+### Template
 ### Day #: August #, 2019
 #####
 
@@ -74,14 +84,3 @@ https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
 **Thoughts:** 
 
 **Link to work:** <a href="#"></a>
-
-
-
-
-
-
-
-
-
-
-      
