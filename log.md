@@ -76,6 +76,16 @@ https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
 **Link to work:** <a href="#"></a>
 
 ### Template
+### Day 7: August 7, 2019
+#####
+
+**Today's Progress**: Met with Startup School group session and w3develops standup to discuss progress.
+
+**Thoughts:** Need to get more done, but teaching role has been taking up lots of time.
+
+**Link to work:** <a href="#"></a>
+
+### Template
 ### Day #: August #, 2019
 #####
 
