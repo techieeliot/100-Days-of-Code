@@ -86,6 +86,34 @@ https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
 **Link to work:** <a href="#"></a>
 
 ### Template
+### Day 8: August 8, 2019
+#####
+
+**Today's Progress**: Worked on the movie database app
+
+**Thoughts:** Didn't make as much progress as I would have liked. 
+
+**Link to work:** <a href="#"></a>
+### Template
+### Day 9: August 10, 2019
+#####
+
+**Today's Progress**: Missed yesterday's time. Worked today on the movie database app
+
+**Thoughts:** The grid and the undefined map is still giving me an issue. I need to get this part fixed.
+
+**Link to work:** <a href="#"></a>
+### Template
+### Day 10: August 11, 2019
+#####
+
+**Today's Progress**: Attended hack-a-thon
+
+**Thoughts:** 
+
+**Link to work:** <a href="#"></a>
+
+### Template
 ### Day #: August #, 2019
 #####
 
