@@ -114,11 +114,11 @@ https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
 **Link to work:** <a href="#"></a>
 
 ### Template
-### Day #: August #, 2019
+### Day 11: August 13, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: MongoDB University chapter 1
 
-**Thoughts:** 
+**Thoughts:** Felt rushed and had little time to code today.
 
 **Link to work:** <a href="#"></a>
