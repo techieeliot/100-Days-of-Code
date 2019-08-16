@@ -122,3 +122,13 @@ https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
 **Thoughts:** Felt rushed and had little time to code today.
 
 **Link to work:** <a href="#"></a>
+
+ ### Template
+### Day 12: August 15, 2019
+#####
+
+**Today's Progress**: Startup school group session.
+
+**Thoughts:** Coded very little.
+
+**Link to work:** <a href="#"></a>
