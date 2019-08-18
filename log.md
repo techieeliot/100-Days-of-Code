@@ -132,3 +132,23 @@ https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
 **Thoughts:** Coded very little.
 
 **Link to work:** <a href="#"></a>
+
+ ### Template
+### Day 13: August 16, 2019
+#####
+
+**Today's Progress**: Worked on the udemy movie database page, but the bugs won the day still.
+
+**Thoughts:** Grateful for Luis' help, but we couldn't figure it out.
+
+**Link to work:** <a href="#"></a>
+
+ ### Template
+### Day 12: August 15, 2019
+#####
+
+**Today's Progress**: Created a use case for the weather alert in the Weather API React App
+
+**Thoughts:** Interesting discussion with the w3Develops team about the API page.
+
+**Link to work:** <a href="#"></a>
