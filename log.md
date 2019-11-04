@@ -3,139 +3,138 @@
 ### Day 1: October 31, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Hacktoberfest added tags for the Carpentries blog and typos on the GatsbyJS docs. 
 
 
-**Thoughts:** 
+**Thoughts:** First Hacktoberfest PR's, so super pumped.
 
 **Link to work:** 
 
 
 ### Template
-### Day 2: August 2, 2019
+### Day 2: Novmber 1, 2019
 #####
 
-**Today's Progress**: I worked through the beautiful blog Scrimba course for the freeCodeCamp Jackson, MS build-a-blog workshop.
+**Today's Progress**: Fixed some PR's for the Carpentries.
 
-**Thoughts:** I'm a little overwhelmed that the workshop is tomorrow and worried that I won't be prepared enough for the grid section.
+**Thoughts:** Felt a little dumb about the changes I messed up in my original PR, but that's ok. 
+
+**Link to work:** 
+
+### Template
+### Day 3: November 2, 2019
+#####
+
+**Today's Progress**: The build-a-blog workshop went super well, and we were able to get through HTML and CSS basics.
+
+**Thoughts:** Excited! Felt great that we were able to help some girl scouts and made some cool networking connections.
 
 **Link to work:** <a href="https://github.com/freecodecampjxn/presentations/tree/master/2019.08.03_workshop">2019.08.03_workshop</a>
 
 ### Template
-### Day 3: August 3, 2019
+### Day 4: November 3, 2019
 #####
 
-**Today's Progress**: The workshop went super well, and we were able to get through HTML, CSS basics, CSS Flexbox, and CSS Grid.
+**Today's Progress**: Reviewed some Data Structures from Beau Carnes' freeCodeCamp course.
 
-**Thoughts:** I'm excited about the result of the workshop. People were seriously learning about basic frontend web development for the first times in their lives all because of our group. It was a turning point kind of moment for our fledgling band of code newbies. 
+**Thoughts:** Feel a little guilty that I didn't code more today.
 
-**Link to work:** <a href="https://github.com/freecodecampjxn/presentations/tree/master/2019.08.03_workshop">2019.08.03_workshop</a>
+**Link to work:**
 
 ### Template
-### Day 4: August 4, 2019
+### Day 5: November 4, 2019
 #####
 
-**Today's Progress**: Standup with w3develops react study group members to discuss the hack-a-thon project. We discussed the Routes, API's, Logic, Models, and Views of the Banking App Concept.
+**Today's Progress**: 
 
-**Thoughts:** I wish I would have gotten to more programming, but we discussed the architectural design of an app.
+**Thoughts:** 
 
-**Link to work:** <a href="https://www.figma.com/file/dY4xftp2SWPpqBkEZcVQau/banking-direct-deposit-app?node-id=0%3A244">the banking app diagram</a>
+**Link to work:** 
 
 ### Template
-### Day 5: August 5, 2019
+### Day 6: November 5, 2019
 #####
 
-**Today's Progress**: Worked through Chapter 2 of the MongoDB Basics Course, but I realized that I won't complete the assignments and need to restart tomorrow.
-
-**Thoughts:** I'm a little dejected that I didn't reach my goal, but I'm glad that they have a rolling admissions to the course. MDB is really an amazing company. It's unbelievable that I missed the boat on investing in this company at 82. 
-
-**Link to work:** <a href="
-https://university.mongodb.com/courses/M001/about">Mongo DB Basics Course</a>
-
-### Template
-### Day 6: August 6, 2019
-#####
-
-**Today's Progress**: Restarted MongoDB course, so I'll be able to pass the course. Openned the Movie App Udemy course, but didn't get much done.
-
-**Thoughts:** Felt little because I didn't achieve my targets and was not on top of my tasks like others in the study group that are really doing well. 
-
-**Link to work:** <a href="#"></a>
-
-### Template
-### Day 7: August 7, 2019
-#####
-
-**Today's Progress**: Met with Startup School group session and w3develops standup to discuss progress.
-
-**Thoughts:** Need to get more done, but teaching role has been taking up lots of time.
-
-**Link to work:** <a href="#"></a>
-
-### Template
-### Day 8: August 8, 2019
-#####
-
-**Today's Progress**: Worked on the movie database app
-
-**Thoughts:** Didn't make as much progress as I would have liked. 
-
-**Link to work:** <a href="#"></a>
-### Template
-### Day 9: August 10, 2019
-#####
-
-**Today's Progress**: Missed yesterday's time. Worked today on the movie database app
-
-**Thoughts:** The grid and the undefined map is still giving me an issue. I need to get this part fixed.
-
-**Link to work:** <a href="#"></a>
-### Template
-### Day 10: August 11, 2019
-#####
-
-**Today's Progress**: Attended hack-a-thon
+**Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work:** <a href="#"></a>
 
 ### Template
-### Day 11: August 13, 2019
+### Day 7: November 6, 2019
 #####
 
-**Today's Progress**: MongoDB University chapter 1
+**Today's Progress**: 
 
-**Thoughts:** Felt rushed and had little time to code today.
+**Thoughts:** 
+
+**Link to work:** <a href="#"></a>
+
+### Template
+### Day 8: August 7, 2019
+#####
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** <a href="#"></a>
+### Template
+### Day 9: November 8, 2019
+#####
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** <a href="#"></a>
+### Template
+### Day 10: November 9, 2019
+#####
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** <a href="#"></a>
+
+### Template
+### Day 11: November 10, 2019
+#####
+
+**Today's Progress**: 
+
+**Thoughts:** 
 
 **Link to work:** <a href="#"></a>
 
  ### Template
-### Day 12: August 15, 2019
+### Day 12: November 11, 2019
 #####
 
-**Today's Progress**: Startup school group session.
+**Today's Progress**: 
 
-**Thoughts:** Coded very little.
+**Thoughts:** 
 
 **Link to work:** <a href="#"></a>
 
  ### Template
-### Day 13: August 16, 2019
+### Day 13: November 12, 2019
 #####
 
-**Today's Progress**: Worked on the udemy movie database page, but the bugs won the day still.
+**Today's Progress**: 
 
-**Thoughts:** Grateful for Luis' help, but we couldn't figure it out.
+**Thoughts:** 
 
 **Link to work:** <a href="#"></a>
 
  ### Template
-### Day 12: August 15, 2019
+### Day 12: November 13, 2019
 #####
 
-**Today's Progress**: Created a use case for the weather alert in the Weather API React App
+**Today's Progress**: 
 
-**Thoughts:** Interesting discussion with the w3Develops team about the API page.
+**Thoughts:** 
 
 **Link to work:** <a href="#"></a>
