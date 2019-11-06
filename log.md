@@ -66,9 +66,9 @@
 ### Day 7: November 4, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Continued data structures progress in freeCodeCamp.
 
-**Thoughts:** 
+**Thoughts:** Excited about making some progress on freeCodeCamp after some stagnant period.
 
 **Link to work:** <a href="#"></a>
 
@@ -76,11 +76,12 @@
 ### Day 8: November 5, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Completed the data structures section in freeCodeCamp.
 
-**Thoughts:** 
+**Thoughts:** Wasted too much time today, but tomorrow is a new day.
 
 **Link to work:** <a href="#"></a>
+
 ### Template
 ### Day 9: November 6, 2019
 #####
