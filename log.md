@@ -10,8 +10,6 @@
 
 **Link to work:** 
 
-
-### Template
 ### Day 2: October 30, 2019
 #####
 
