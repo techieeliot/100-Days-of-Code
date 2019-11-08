@@ -30,7 +30,6 @@
 **Link to work:** 
 
 
-### Template
 ### Day 4: Novmber 1, 2019
 #####
 
@@ -40,7 +39,6 @@
 
 **Link to work:** 
 
-### Template
 ### Day 5: November 2, 2019
 #####
 
@@ -50,7 +48,6 @@
 
 **Link to work:** <a href="https://github.com/freecodecampjxn/presentations/tree/master/2019.08.03_workshop">2019.08.03_workshop</a>
 
-### Template
 ### Day 6: November 3, 2019
 #####
 
@@ -60,7 +57,6 @@
 
 **Link to work:** <a href="#"></a>
 
-### Template
 ### Day 7: November 4, 2019
 #####
 
@@ -70,7 +66,6 @@
 
 **Link to work:** <a href="#"></a>
 
-### Template
 ### Day 8: November 5, 2019
 #####
 
@@ -80,26 +75,24 @@
 
 **Link to work:** <a href="#"></a>
 
-### Template
 ### Day 9: November 6, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Recursion challenges completed with help from Jacob Evans and read a few articles about the topic.
 
-**Thoughts:** 
+**Thoughts:** Very tired! Glad I completed at least one challenge.
 
 **Link to work:** <a href="#"></a>
-### Template
+
 ### Day 10: November 7, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Chatted with a friend about C# and .NET to learn for a job lead. Wor
 
 **Thoughts:** 
 
 **Link to work:** <a href="#"></a>
 
-### Template
 ### Day 11: November 8, 2019
 #####
 
@@ -109,7 +102,6 @@
 
 **Link to work:** <a href="#"></a>
 
- ### Template
 ### Day 12: November 9, 2019
 #####
 
@@ -119,7 +111,6 @@
 
 **Link to work:** <a href="#"></a>
 
- ### Template
 ### Day 13: November 10, 2019
 #####
 
@@ -129,7 +120,6 @@
 
 **Link to work:** <a href="#"></a>
 
- ### Template
 ### Day 12: November 11, 2019
 #####
 
