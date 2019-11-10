@@ -105,7 +105,7 @@
 ### Day 12: November 9, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Sick as a dog.
 
 **Thoughts:** 
 
