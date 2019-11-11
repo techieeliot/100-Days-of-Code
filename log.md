@@ -107,16 +107,16 @@
 
 **Today's Progress**: Sick as a dog.
 
-**Thoughts:** 
+**Thoughts:** Feel awful, but glad I coded for a bit today.
 
 **Link to work:** <a href="#"></a>
 
 ### Day 13: November 10, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Still sick, but coded some.
 
-**Thoughts:** 
+**Thoughts:** Still feel awful, but I'm surviving.
 
 **Link to work:** <a href="#"></a>
 
