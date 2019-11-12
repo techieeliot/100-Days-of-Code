@@ -120,7 +120,7 @@
 
 **Link to work:** <a href="#"></a>
 
-### Day 12: November 11, 2019
+### Day 14: November 11, 2019
 #####
 
 **Today's Progress**: Completed two freeCodeCamp sections in one day (Regular Expressions and Object-Oriented Programming). Started Functional Programming.
@@ -129,7 +129,7 @@
 
 **Link to work:** <a href="#"></a>
 
-### Day 13: November 12, 2019
+### Day 15: November 12, 2019
 #####
 
 **Today's Progress**: 
@@ -138,7 +138,7 @@
 
 **Link to work:** <a href="#"></a>
 
-### Day 14: November 13, 2019
+### Day 16: November 13, 2019
 #####
 
 **Today's Progress**: 
@@ -147,7 +147,7 @@
 
 **Link to work:** <a href="#"></a>
 
-### Day 15: November 14, 2019
+### Day 17: November 14, 2019
 #####
 
 **Today's Progress**: 
@@ -156,7 +156,7 @@
 
 **Link to work:** <a href="#"></a>
 
-### Day 16: November 15, 2019
+### Day 18: November 15, 2019
 #####
 
 **Today's Progress**: 
@@ -165,7 +165,7 @@
 
 **Link to work:** <a href="#"></a>
 
-### Day 17: November 16, 2019
+### Day 19: November 16, 2019
 #####
 
 **Today's Progress**: 
@@ -174,7 +174,7 @@
 
 **Link to work:** <a href="#"></a>
 
-### Day 18: November 16, 2019
+### Day 19: November 16, 2019
 #####
 
 **Today's Progress**: 
