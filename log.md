@@ -132,9 +132,9 @@
 ### Day 15: November 12, 2019
 #####
 
-**Today's Progress**: 
+**Today's Progress**: Completed several functional programming sections in freeCodeCamp.
 
-**Thoughts:** 
+**Thoughts:** Feeling good and feeling like I really need to work at this skill a lot more. Connected with my friend in India, SriKanth.
 
 **Link to work:** <a href="#"></a>
 
