@@ -182,3 +182,12 @@
 **Thoughts:** 
 
 **Link to work:** <a href="#"></a>
+
+### Day 7?: January 29,2019
+#####
+
+**Today's Progress**: Added some markdown to some of the to-do list page and started a function that would take a click and send it to the banner.
+
+**Thoughts:** Tired, but coded after returning from our travels to Starkville.
+
+**Link to work:** <a href="#"></a>
