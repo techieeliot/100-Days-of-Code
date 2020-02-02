@@ -191,3 +191,12 @@
 **Thoughts:** Tired, but coded after returning from our travels to Starkville.
 
 **Link to work:** <a href="#"></a>
+
+### Day 7?: January 31,2019
+#####
+
+**Today's Progress**: Added a view cart functionality to the shopping cart that allowed the currency rate to change based on the selected currency rate.
+
+**Thoughts:** Excited that I was able to add this feature without any help and quickly.
+
+**Link to work:** <a href="#"></a>
