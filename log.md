@@ -200,3 +200,21 @@
 **Thoughts:** Excited that I was able to add this feature without any help and quickly.
 
 **Link to work:** <a href="#"></a>
+
+### Day 7?: February 1,2019
+#####
+
+**Today's Progress**: Reviewed You Don't Know JS chapter 3.
+
+**Thoughts:** Getting into some stuff that's a little more advanced, hope I have enough time to review the entire chapter prior to the meetup.
+
+**Link to work:** <a href="#"></a>
+
+### Day 7?: February 2,2019
+#####
+
+**Today's Progress**: Completed You Don't Know JS chapter 3 and attended the meetup with Code Book Club and special guest Kyle Simpson.
+
+**Thoughts:** Very cool reviewing the chapter with the author of the book and seeing how down to earth that he was.
+
+**Link to work:** <a href="#"></a>
