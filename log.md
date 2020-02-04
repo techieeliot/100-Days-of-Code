@@ -218,3 +218,12 @@
 **Thoughts:** Very cool reviewing the chapter with the author of the book and seeing how down to earth that he was.
 
 **Link to work:** <a href="#"></a>
+
+### Day 7?: February 3,2019
+#####
+
+**Today's Progress**: Reviewed closures in JS. 
+
+**Thoughts:** Filling gaps :)
+
+**Link to work:** <a href="#"></a>
