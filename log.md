@@ -227,3 +227,12 @@
 **Thoughts:** Filling gaps :)
 
 **Link to work:** <a href="#"></a>
+
+### Day 7?: February 4,2019
+#####
+
+**Today's Progress**: Returned to MS Coding Academy and review basics of setting up MAMP and MySQL and the importance of structuring tables in a relational database.
+
+**Thoughts:** Felt behind after arriving late to class, but glad I was able to get caught up to the class. 
+
+**Link to work:** <a href="#"></a>
