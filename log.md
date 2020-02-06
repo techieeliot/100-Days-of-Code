@@ -236,3 +236,12 @@
 **Thoughts:** Felt behind after arriving late to class, but glad I was able to get caught up to the class. 
 
 **Link to work:** <a href="#"></a>
+
+### Day 7?: February 5,2019
+#####
+
+**Today's Progress**: Class on relational tables in preparation for SQL. We built out several data models in Google Sheets. I built out a NCAA College football data model.
+
+**Thoughts:** I feel like this type of work will be good to get some experience building out these sort of data models, especially for things that I like to do like college football.
+
+**Link to work:** <a href="#"></a>
