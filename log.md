@@ -245,3 +245,30 @@
 **Thoughts:** I feel like this type of work will be good to get some experience building out these sort of data models, especially for things that I like to do like college football.
 
 **Link to work:** <a href="#"></a>
+
+### Day 7?: February 6,2019
+#####
+
+**Today's Progress**: Continued class on relational databases. We built a vending-machine db, and Levi created a bash file to create lots of dumbie data while true.
+
+**Thoughts:** We had lots of fun creating a simple database.
+
+**Link to work:** <a href="#"></a>
+
+### Day 7?: February 7,2019
+#####
+
+**Today's Progress**: Prepared for javascript workshop.
+
+**Thoughts:** Not as prepped as I would like, but here we go.
+
+**Link to work:** <a href="#"></a>
+
+### Day 7?: February 8,2019
+#####
+
+**Today's Progress**: I finalized the content for the presentation and gave the presentation.
+
+**Thoughts:** We had a small crowd, so I could really take my time to focus on getting to know the attendees and took our time learning key information about variables.
+
+**Link to work:** <a href="#"></a>
